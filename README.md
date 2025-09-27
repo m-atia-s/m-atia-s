@@ -11,8 +11,8 @@ My journey in information technology has fueled a passion for IT support and a c
 
 | Skills                                         | Projects         |
 |-----------------------------------------------|----------------------------|
-| IT Support - Networking - CyberSecurity | <a href="https:torostechnology.com"></a>|
-| Tutorials | <a href="https://youtu.be/25GHjHhA8SQ"></a>|
+| IT Support - Networking - CyberSecurity | <a href="https:torostechnology.com">My website & IT Services</a>|
+| Tutorials | <a href="https://youtu.be/25GHjHhA8SQ">Video tutorials</a>|
 | Personal Development Certification Notes  | <a href="https://github.com/m-atia-s?tab=repositories">Wiki & Repositories</a>| 
 
 ## Tools
