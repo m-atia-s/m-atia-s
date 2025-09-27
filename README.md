@@ -7,15 +7,13 @@ ICT professional with strong technical expertise and excellent communication ski
 
 My journey in information technology has fueled a passion for IT support and a commitment to continuously learning everything related to systems administration, networking, and cybersecurity. I am eager to keep expanding my skills and deepening my expertise in these areas
 
-## Skills
+## Portfolio
 
 | Skills                                         | Projects         |
 |-----------------------------------------------|----------------------------|
-| Microsoft 365 Admin Center          | <a href="https:torostechnology.com"></a>|
-| Meraki Network Monitoring | <a href="https:torostechnology.com"></a>|
-| Network Design      | Microsoft Visio|
-| Packet Tracer         | Routing and Switching Labs|
-| Personal Development Certification Notes  | <a href="https://github.com/m-atia-s/Security-SY0-701">CompTIA Security+ SY0-701</a>| 
+| IT Support - Networking - CyberSecurity | <a href="https:torostechnology.com"></a>|
+| Tutorials | <a href="https://youtu.be/25GHjHhA8SQ"></a>|
+| Personal Development Certification Notes  | <a href="https://github.com/m-atia-s?tab=repositories">CompTIA Security+ SY0-701</a>| 
 
 ## Tools
 
