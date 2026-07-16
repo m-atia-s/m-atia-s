@@ -1,4 +1,4 @@
-# G'day!, Matias from TorosTechnology.com here!
+# G'day!, Matias here!
 <a href="https://www.linkedin.com/in/m-atia-s"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ICT professional with strong technical expertise and excellent communication skills in both Spanish and English. Passionate about empowering users to leverage technology effectively. Committed to continuous learning, innovation, and delivering solutions that drive meaningful results.
