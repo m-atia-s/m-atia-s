@@ -11,8 +11,7 @@ My journey in information technology has fueled a passion for IT support and a c
 
 | Skills                                         | Projects         |
 |-----------------------------------------------|----------------------------|
-| IT Support - Networking - CyberSecurity | <a href="https://torostechnology.com">IT Services</a>|
-| Tutorials | <a href="https://youtu.be/25GHjHhA8SQ">Video tutorials</a>|
+| IT Support - Networking - CyberSecurity | <a href="https://infra255.com">IT Services</a>|
 | Personal Development Wikipedia | <a href="https://github.com/m-atia-s?tab=repositories">Wiki & Repositories</a>| 
 
 ## Tools
